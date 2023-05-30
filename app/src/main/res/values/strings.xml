@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Splashscreenanimation</string>
+    <string name="i1_desc">Aplikasi Catatan Harian.\nGeser ke kanan untuk mengetahui lebih lengkap.</string>
+    <string name="i2_desc">Aplikasi ini merupakan aplikasi sederhana untuk melihat kegiatan atau catatan kita sehari-hari atau menjadwalkan kegiatan atau aktivitas kita.\nGeser ke kanan untuk mengetahui lebih lengkap..</string>
+    <string name="i3_desc">Aplikasi ini di buat untuk memenuhi tugas UTS dari mata kuliah AKB (Aplikasi Komputasi Bergerak).</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
